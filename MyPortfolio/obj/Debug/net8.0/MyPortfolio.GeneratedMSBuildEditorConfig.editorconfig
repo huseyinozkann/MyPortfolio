@@ -30,8 +30,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/huseyinozkan/Projects/MyPortfolio/MyPortfolio/Views/Shared/Components/_AboutComponentPartial /Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Fib3V0Q29tcG9uZW50UGFydGlhbCAvRGVmYXVsdC5jc2h0bWw=
+[/Users/huseyinozkan/Projects/MyPortfolio/MyPortfolio/Views/Shared/Components/_AboutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Fib3V0Q29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/huseyinozkan/Projects/MyPortfolio/MyPortfolio/Views/Shared/Components/_FeatureComponentPartial/Default.cshtml]

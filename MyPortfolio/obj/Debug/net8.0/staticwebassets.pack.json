@@ -325,6 +325,10 @@
       "PackagePath": "staticwebassets/hola-master/images/testimonial-bg.jpg"
     },
     {
+      "Id": "/Users/huseyinozkan/Projects/MyPortfolio/MyPortfolio/wwwroot/hola-master/images/testimonial_logo.png",
+      "PackagePath": "staticwebassets/hola-master/images/testimonial_logo.png"
+    },
+    {
       "Id": "/Users/huseyinozkan/Projects/MyPortfolio/MyPortfolio/wwwroot/hola-master/images/wheel-1000.jpg",
       "PackagePath": "staticwebassets/hola-master/images/wheel-1000.jpg"
     },

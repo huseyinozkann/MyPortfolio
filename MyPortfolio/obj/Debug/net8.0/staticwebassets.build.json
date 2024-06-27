@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uor5K3nIBMKCsR47MHTxEsP1dfHJUAkITzhjP3pTOY4=",
+  "Hash": "qbT5ivw3VKQgri+AE+9O7ZQ1XU5FRj1CEI0Iy2ylvLA=",
   "Source": "MyPortfolio",
   "BasePath": "_content/MyPortfolio",
   "Mode": "Default",
@@ -1554,6 +1554,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/hola-master/images/sample-image.jpg"
+    },
+    {
+      "Identity": "/Users/huseyinozkan/Projects/MyPortfolio/MyPortfolio/wwwroot/hola-master/images/testimonial_logo.png",
+      "SourceId": "MyPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/huseyinozkan/Projects/MyPortfolio/MyPortfolio/wwwroot/",
+      "BasePath": "_content/MyPortfolio",
+      "RelativePath": "hola-master/images/testimonial_logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/hola-master/images/testimonial_logo.png"
     },
     {
       "Identity": "/Users/huseyinozkan/Projects/MyPortfolio/MyPortfolio/wwwroot/hola-master/images/testimonial-bg.jpg",
